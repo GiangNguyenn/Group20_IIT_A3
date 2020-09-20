@@ -1,5 +1,5 @@
 
-  WELLCOME TO OUR TEAM SHOWCASE!
+  WELLCOME TO OUR TEAM AND PROJECT SHOWCASE!
 
   Assignment 3 - Group 20 - Introduction to Information Technology - RMIT Vietnam - semester B
 
@@ -27,4 +27,4 @@
   Thank you and Happy assessing!
 
   =>>> Start day: August 28th
-  =>>> Last modified:
+  =>>> Last modified: September 20th
